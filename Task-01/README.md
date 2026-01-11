@@ -54,7 +54,11 @@ The visualization shows a **right-skewed distribution**, indicating that:
 ## ✅ Conclusion
 This task demonstrates how histograms can be effectively used to analyze and visualize the distribution of continuous data. Such visualizations help in understanding data spread, skewness, and overall patterns within large datasets.
 
+## ✨ Author
+**Om Dhaigude** 
+
+![Histogram](Histogram.png)
+![Bar Chart](Bar_Chart.png)
+
 ---
 
-## ✨ Author
-**Om Dhaigude**
