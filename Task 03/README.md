@@ -35,9 +35,11 @@ Build a **Decision Tree Classifier** to predict whether a customer will purchase
 
 ## 📁 Project Structure
 Task 03/
-├── bank.csv
-├── task_03.ipynb
+└── bank.csv
+└── task_03.ipynb
 └── README.md
+└── confusion_matrix.png
+└── decision_tree.png
 
 
 ---
